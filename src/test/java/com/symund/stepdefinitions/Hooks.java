@@ -1,4 +1,4 @@
-package com.symund.runners;
+package com.symund.stepdefinitions;
 
 import com.symund.utilities.Driver;
 import io.cucumber.java.After;

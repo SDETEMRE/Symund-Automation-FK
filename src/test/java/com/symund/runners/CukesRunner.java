@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
                 "html:target/default-html-reports",
                 "rerun:target/rerun.txt"},
         features = "src/test/resources/features",
-        glue = "com/symund/step_definitions",
+        glue = "com/symund/stepdefinitions",
         dryRun = false,
         tags = "@wip"
 )
